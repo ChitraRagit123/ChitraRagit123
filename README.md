@@ -1,5 +1,7 @@
 # Hi there! 👋 I'm Chitra Ragit  
 🚀 **Aspiring DevOps Engineer** | 🎓 Final Year Student  
+(![gitlab gif](https://github.com/user-attachments/assets/4622ef58-85b4-4207-af43-3d7118bedb28)
+) 
 
 I'm passionate about **DevOps, Cloud Computing, and Automation**. Currently, I'm exploring various DevOps tools and technologies while working on exciting projects that bridge development and operations seamlessly.  
 
