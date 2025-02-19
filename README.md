@@ -1,11 +1,8 @@
 # Hi there! 👋 I'm Chitra Ragit  
 🚀 **Aspiring DevOps Engineer** | 🎓 Final Year Student 
 
-<img src="![crear-gif-de-imágenes](https://github.com/user-attachments/assets/34c7ff77-7e9c-494f-84a5-cc741c8b48b9)
-" width="300" height="200"><img src="![giphy](https://github.com/user-attachments/assets/0dbdaa3b-c211-4e98-9981-b422183d8e37)
-" width="300" height="200"><img src="![f55e8059ea945abfd6804b887dd4a0af](https://github.com/user-attachments/assets/1e8eeeb5-6112-4083-92c5-34be1895f77b)
-" width="300" height="200"><img src="![1_yNkQ4MuQy3qrJxNdEc7rfA](https://github.com/user-attachments/assets/ee7ed350-50cf-43eb-94e3-75435def76d8)
-" width="300" height="200"><img src="[![giphy](https://github.com/user-attachments/assets/36e2043b-f69e-40d3-896a-f408d215ba4c)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgitlab&psig=AOvVaw125aDhBewKq8B1g5agHe8H&ust=1740041328685000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNihj5ytz4sDFQAAAAAdAAAAABAE)" width="300" height="200">
+
+![python gif](https://github.com/user-attachments/assets/90f8a4f2-aa89-4572-9be5-63cad2dbcb93)![linux gif](https://github.com/user-attachments/assets/1cf7adbb-74a0-4e46-ad91-af249df2c73a)![git gif](https://github.com/user-attachments/assets/83643735-6d35-4306-ad58-38e171afe37c)![gitlab gif](https://github.com/user-attachments/assets/e00f20f0-3116-48c7-979e-e837004fc562)
 
 
 
