@@ -2,7 +2,7 @@
 🚀 **Aspiring DevOps Engineer** | 🎓 Final Year Student 
 
 <p>
-  <img src="https://github.com/user-attachments/assets/90f8a4f2-aa89-4572-9be5-63cad2dbcb93" width="200" height="125"><img src="https://github.com/user-attachments/assets/1cf7adbb-74a0-4e46-ad91-af249df2c73a" width="200" height="125"><img src="https://github.com/user-attachments/assets/f940b2e0-6877-4941-9257-7ee9d7625761" width="200" height="125"><img src="https://github.com/user-attachments/assets/a3909d9c-708c-4cee-83e6-2d4a779945bc" width="200" height="125"><img src="https://github.com/user-attachments/assets/83643735-6d35-4306-ad58-38e171afe37c" width="200" height="125"><img src="https://github.com/user-attachments/assets/e00f20f0-3116-48c7-979e-e837004fc562" width="200" height="125">
+  <img src="https://github.com/user-attachments/assets/90f8a4f2-aa89-4572-9be5-63cad2dbcb93" width="150" height="150"><img src="https://github.com/user-attachments/assets/1cf7adbb-74a0-4e46-ad91-af249df2c73a" width="150" height="150"><img src="https://github.com/user-attachments/assets/f940b2e0-6877-4941-9257-7ee9d7625761" width="150" height="150"><img src="https://github.com/user-attachments/assets/a3909d9c-708c-4cee-83e6-2d4a779945bc" width="150" height="150"><img src="https://github.com/user-attachments/assets/83643735-6d35-4306-ad58-38e171afe37c" width="150" height="150"><img src="https://github.com/user-attachments/assets/e00f20f0-3116-48c7-979e-e837004fc562" width="150" height="150">
 </p> 
  
 
