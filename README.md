@@ -2,13 +2,8 @@
 🚀 **Aspiring DevOps Engineer** | 🎓 Final Year Student 
 
 <p>
-  <img src="https://github.com/user-attachments/assets/90f8a4f2-aa89-4572-9be5-63cad2dbcb93" width="400" height="250">
+  <img src="https://github.com/user-attachments/assets/90f8a4f2-aa89-4572-9be5-63cad2dbcb93" width="400" height="250"><img src="https://github.com/user-attachments/assets/1cf7adbb-74a0-4e46-ad91-af249df2c73a" width="400" height="250"><img src="https://github.com/user-attachments/assets/83643735-6d35-4306-ad58-38e171afe37c" width="400" height="250"><img src="https://github.com/user-attachments/assets/e00f20f0-3116-48c7-979e-e837004fc562" width="400" height="250">
 </p> 
-
-![python gif](https://github.com/user-attachments/assets/90f8a4f2-aa89-4572-9be5-63cad2dbcb93)![linux gif](https://github.com/user-attachments/assets/1cf7adbb-74a0-4e46-ad91-af249df2c73a)![git gif](https://github.com/user-attachments/assets/83643735-6d35-4306-ad58-38e171afe37c)![gitlab gif](https://github.com/user-attachments/assets/e00f20f0-3116-48c7-979e-e837004fc562)
-
-
-
  
 
 I'm passionate about **DevOps, Cloud Computing, and Automation**. Currently, I'm exploring various DevOps tools and technologies while working on exciting projects that bridge development and operations seamlessly.  
