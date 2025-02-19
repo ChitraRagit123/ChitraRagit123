@@ -1,10 +1,14 @@
 # Hi there! 👋 I'm Chitra Ragit  
 🚀 **Aspiring DevOps Engineer** | 🎓 Final Year Student 
 
-<img src="(https://github.com/user-attachments/assets/4622ef58-85b4-4207-af43-3d7118bedb28)" width="300" height="200">
+<img src="![crear-gif-de-imágenes](https://github.com/user-attachments/assets/34c7ff77-7e9c-494f-84a5-cc741c8b48b9)
+" width="300" height="200"><img src="![giphy](https://github.com/user-attachments/assets/0dbdaa3b-c211-4e98-9981-b422183d8e37)
+" width="300" height="200"><img src="![f55e8059ea945abfd6804b887dd4a0af](https://github.com/user-attachments/assets/1e8eeeb5-6112-4083-92c5-34be1895f77b)
+" width="300" height="200"><img src="![1_yNkQ4MuQy3qrJxNdEc7rfA](https://github.com/user-attachments/assets/ee7ed350-50cf-43eb-94e3-75435def76d8)
+" width="300" height="200"><img src="![giphy](https://github.com/user-attachments/assets/36e2043b-f69e-40d3-896a-f408d215ba4c)" width="300" height="200">
 
 
-![download](https://github.com/user-attachments/assets/94bda791-9d8e-4c10-9481-e72587eda08c)![1_sOWIyC1rjrWSUdIS1KvyHw](https://github.com/user-attachments/assets/bfa92d97-58b1-4880-b950-c68d20ab72a5)![download](https://github.com/user-attachments/assets/f55d5562-2953-457f-ad20-384a344c2275)![download](https://github.com/user-attachments/assets/c25230c3-b261-4ca9-84b5-c5f738eda4be)![gitlab gif]
+
  
 
 I'm passionate about **DevOps, Cloud Computing, and Automation**. Currently, I'm exploring various DevOps tools and technologies while working on exciting projects that bridge development and operations seamlessly.  
