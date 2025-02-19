@@ -10,6 +10,7 @@ I'm passionate about **DevOps, Cloud Computing, and Automation**. Currently, I'm
 - 💡 Exploring **DSA and problem-solving** 
 
 - 📫 How to reach me:
+  
  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chitra-ragit-283aa422a/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)]([https://github.com/your-username](https://github.com/ChitraRagit123))  
 [![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)](https://hashnode.com/@chitra581)  
